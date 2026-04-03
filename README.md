@@ -22,5 +22,5 @@ https://git-scm.com/download/win </p>
 
 
 
-
+<h2>To access the generated WSDL, access the webservice by wrting as follow</h2>
 http://localhost:8080/ws/calculator.wsdl
